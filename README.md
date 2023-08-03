@@ -1,7 +1,5 @@
 ## GPT Fine-Tuning using Node.js
 
-This project show how to easily fine-tune a GPT data model. This codebase goes along with the tutorial located [here](https://nader.substack.com/p/supercharge-your-gpt-model-custom).
-
 ### Prerequisites
 
 To follow along with this tutorial, you’ll need to have the following installed on your machine:
@@ -16,9 +14,9 @@ You’ll also need an OpenAI API Key. You can get one at [https://openai.com](ht
 First, clone the repo and install the dependencies:
 
 ```sh
-git clone https://github.com/dabit3/gpt-fine-tuning-with-nodejs.git
+git clone https://github.com/Dvip47/FeelingAI.git
 
-cd gpt-fine-tuning-with-nodejs
+cd FeelingAI
 
 npm install # or yarn
 ```

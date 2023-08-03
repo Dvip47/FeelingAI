@@ -4,7 +4,7 @@ async function createCompletion() {
   try {
     const response = await openai.createCompletion({
       model: 'davinci:ft-personal-2023-03-31-01-09-15',
-      prompt: 'What is Lens Protocol',
+      prompt: 'Hii Baby',
       max_tokens: 200
     })
     if (response.data) {
